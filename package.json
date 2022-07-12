@@ -1,0 +1,38 @@
+{
+  "name": "final-project-final-project-team-1",
+  "version": "1.0.0",
+  "description": "Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs493-sp22/final-project-final-project-team-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osu-cs493-sp22/final-project-final-project-team-1/issues"
+  },
+  "homepage": "https://github.com/osu-cs493-sp22/final-project-final-project-team-1#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-bearer-token": "^2.4.0",
+    "json-2-csv": "^3.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.3",
+    "mongoose-gridfs": "^1.3.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}

@@ -1,0 +1,4 @@
+- Jonathan Dressel - dresselj@oregonstate.edu
+- Kathleen Ashley - ashleyk@oregonstate.edu
+- Ethan Barker - barkeret@oregonstate.edu
+- Tanmay Badageri - badagert@oregonstate.edu

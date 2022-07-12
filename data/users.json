@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Nick Arzner",
+    "email": "nick@oregonstate.edu",
+    "password": "password1234",
+    "role": "student"
+  },
+  {
+    "name": "Tori Lockwood",
+    "email": "tori@oregonstate.edu",
+    "password": "password1234",
+    "role": "student"
+  },
+  {
+    "name": "Joel Rea",
+    "email": "joel@oregonstate.edu",
+    "password": "password1234",
+    "role": "student"
+  },
+  {
+    "name": "Sebastian Koester",
+    "email": "sebastiank@oregonstate.edu",
+    "password": "password1234",
+    "role": "student"
+  },
+  {
+    "name": "Kim Marchesi",
+    "email": "kim@oregonstate.edu",
+    "password": "password1234",
+    "role": "student"
+  },
+  {
+    "name": "William McCanless",
+    "email": "william@oregonstate.edu",
+    "password": "password1234",
+    "role": "student"
+  },
+  {
+    "name": "Paul Turner",
+    "email": "paul@oregonstate.edu",
+    "password": "password1234",
+    "role": "student"
+  },
+  {
+    "name": "Cody Utzman",
+    "email": "cody@oregonstate.edu",
+    "password": "password1234",
+    "role": "student"
+  },
+  {
+    "name": "Ryan Smith",
+    "email": "smithr@oregonstate.edu",
+    "password": "hunter2",
+    "role": "student"
+  },
+  {
+    "name": "Philip Wilson",
+    "email": "philib@oregonstate.edu",
+    "password": "hunter2",
+    "role": "student"
+  },
+  {
+    "name": "James Houston",
+    "email": "jameshouston@oregonstate.edu",
+    "password": "hunter2",
+    "role": "student"
+  },
+  {
+    "name": "Mike Easter",
+    "email": "mike@oregonstate.edu",
+    "password": "hunter2",
+    "role": "instructor"
+  },
+  {
+    "name": "Casey Collett",
+    "email": "casey@oregonstate.edu",
+    "password": "hunter2",
+    "role": "instructor"
+  },
+  {
+    "name": "John Semadeni",
+    "email": "john@oregonstate.edum",
+    "password": "hunter2",
+    "role": "instructor"
+  },
+  {
+    "name": "Alex Spaeth",
+    "email": "alex@oregonstate.edu",
+    "password": "hunter2",
+    "role": "instructor"
+  },
+  {
+    "name": "Rob Hess",
+    "email": "hessr@oregonstate.edu",
+    "password": "hunter2",
+    "role": "admin"
+  }
+]

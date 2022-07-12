@@ -1,0 +1,134 @@
+[
+  {
+    "courseid": 1,
+    "title": "Assignment 1",
+    "points": 100,
+    "due": "2022-06-14T23:59:59.000Z"
+  },
+  {
+    "courseid": 1,
+    "title": "Assignment 2",
+    "points": 120,
+    "due": "2022-07-14T23:59:59.000Z"
+  },
+  {
+    "courseid": 2,
+    "title": "Assignment 1",
+    "points": 100,
+    "due": "2022-06-15T23:59:59.000Z"
+  },
+  {
+    "courseid": 2,
+    "title": "Assignment 2",
+    "points": 130,
+    "due": "2022-07-18T23:59:59.000Z"
+  },
+  {
+    "courseid": 3,
+    "title": "Assignment 1",
+    "points": 110,
+    "due": "2022-06-21T23:59:59.000Z"
+  },
+  {
+    "courseid": 3,
+    "title": "Assignment 2",
+    "points": 100,
+    "due": "2022-06-30T23:59:59.000Z"
+  },
+  {
+    "courseid": 4,
+    "title": "Assignment 1",
+    "points": 80,
+    "due": "2022-06-15T23:59:59.000Z"
+  },
+  {
+    "courseid": 4,
+    "title": "Assignment 2",
+    "points": 90,
+    "due": "2022-07-18T23:59:59.000Z"
+  },
+  {
+    "courseid": 5,
+    "title": "Assignment 1",
+    "points": 120,
+    "due": "2022-06-19T23:59:59.000Z"
+  },
+  {
+    "courseid": 5,
+    "title": "Assignment 2",
+    "points": 100,
+    "due": "2022-06-29T23:59:59.000Z"
+  },
+  {
+    "courseid": 6,
+    "title": "Assignment 1",
+    "points": 90,
+    "due": "2022-06-20T23:59:59.000Z"
+  },
+  {
+    "courseid": 6,
+    "title": "Assignment 2",
+    "points": 100,
+    "due": "2022-06-20T23:59:59.000Z"
+  },
+  {
+    "courseid": 7,
+    "title": "Assignment 1",
+    "points": 105,
+    "due": "2022-06-26T23:59:59.000Z"
+  },
+  {
+    "courseid": 7,
+    "title": "Assignment 2",
+    "points": 120,
+    "due": "2022-06-22T23:59:59.000Z"
+  },
+  {
+    "courseid": 8,
+    "title": "Assignment 1",
+    "points": 100,
+    "due": "2022-06-30T23:59:59.000Z"
+  },
+  {
+    "courseid": 8,
+    "title": "Assignment 2",
+    "points": 95,
+    "due": "2022-06-19T23:59:59.000Z"
+  },
+  {
+    "courseid": 9,
+    "title": "Assignment 1",
+    "points": 110,
+    "due": "2022-06-27T23:59:59.000Z"
+  },
+  {
+    "courseid": 9,
+    "title": "Assignment 2",
+    "points": 100,
+    "due": "2022-06-18T23:59:59.000Z"
+  },
+  {
+    "courseid": 10,
+    "title": "Assignment 1",
+    "points": 95,
+    "due": "2022-06-29T23:59:59.000Z"
+  },
+  {
+    "courseid": 10,
+    "title": "Assignment 2",
+    "points": 100,
+    "due": "2022-06-16T23:59:59.000Z"
+  },
+  {
+    "courseid": 11,
+    "title": "Assignment 1",
+    "points": 85,
+    "due": "2022-07-25T23:59:59.000Z"
+  },
+  {
+    "courseid": 11,
+    "title": "Assignment 2",
+    "points": 150,
+    "due": "2022-07-29T23:59:59.000Z"
+  }
+]
